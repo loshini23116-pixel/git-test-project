@@ -2,4 +2,4 @@
 # Author: Loshini Jayasinghe
 # Description: Code for Git familiarity level
 
-print("Hello Git - updated version!")
+print("This is development branch")
